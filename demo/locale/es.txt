@@ -1,0 +1,33 @@
+#: locale=es
+
+## Hotspot
+
+### Texto
+HotspotPanoramaOverlayTextImage_97BE426D_8647_0227_41D1_182615013538.text = COCINA
+
+### URL
+FramePanoramaOverlay_92BD1F57_8643_0262_41D1_8655C8ECB3F9.url = vinculoinmobiliario.com
+
+## Media
+
+### Imágen
+imlevel_94C7A354_867F_0265_41C2_86BA7A66D892.url = media/panorama_8AADB65E_8647_0262_41C3_9E3B287F85AD_HS_2kydce2q_es.webp
+
+### Título
+panorama_8AAD8B6E_8647_0222_41C3_E8899AFC9DCF.label = Cocina 1
+panorama_8AAC0F42_8647_0262_41B0_FCB6609FFA8C.label = Cocina 2
+panorama_8AADD20C_8647_3DE5_41D0_07126FEBA775.label = Cocina 3
+panorama_8840B2CF_86C5_0263_41D8_3EE8B7A0ACB1.label = Cocina 4
+panorama_8996024D_86C5_0267_41C3_508F4EBE9167.label = Comedor 1
+panorama_8AADB65E_8647_0262_41C3_9E3B287F85AD.label = Comedor 2
+panorama_888C5223_86C3_0223_41B2_76DB49F9083E.label = Sala 1
+panorama_96A10A47_86DF_0262_41DF_C39AD79E57E4.label = Sala 2
+panorama_8AACF1D5_8647_1E67_41D4_50181B461833.label = Sala 3
+
+## Tour
+
+### Descripción
+tour.description = Ver como Funciona 3D Vista
+
+### Título
+tour.name = Prueba 1
