@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0 beta 2/22072
 // Filename: feather_box_tours.ggsk
-// Generated 2026-03-05T01:38:31Z
+// Generated 2026-03-05T03:48:03Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -36,7 +36,7 @@ function pano2vrSkin(player,base) {
 	player.addVariable('opt_proj_title', 2, true, { ignoreInState: 1  });
 	player.addVariable('opt_info', 2, true, { ignoreInState: 1  });
 	player.addVariable('opt_fullscreen', 2, true, { ignoreInState: 1  });
-	player.addVariable('opt_gyro', 2, true, { ignoreInState: 1  });
+	player.addVariable('opt_gyro', 2, false, { ignoreInState: 1  });
 	player.addVariable('opt_maps', 2, false, { ignoreInState: 1  });
 	player.addVariable('opt_floorplans', 2, false, { ignoreInState: 1  });
 	player.addVariable('opt_share_facebook', 2, true, { ignoreInState: 1  });
@@ -46,7 +46,7 @@ function pano2vrSkin(player,base) {
 	player.addVariable('opt_url_popup', 2, true, { ignoreInState: 1  });
 	player.addVariable('width_share_container', 1, 70.00, { ignoreInState: 1  });
 	player.addVariable('vis_thumbnails', 2, false, { ignoreInState: 1  });
-	player.addVariable('opt_thumbnails', 2, true, { ignoreInState: 1  });
+	player.addVariable('opt_thumbnails', 2, false, { ignoreInState: 1  });
 	player.addVariable('toggle_vis_thumbs', 2, false, { ignoreInState: 0  });
 	player.addVariable('has_fullscreen', 2, true, { ignoreInState: 1  });
 	player.addVariable('sounds_splashscreen_accepted', 2, false, { ignoreInState: 0  });
@@ -11174,6 +11174,9 @@ alert("The current view has been copied.");
 		el.ggElementNodeId=function() {
 			return player.getCurrentNode();
 		}
+		me._text_1.onclick=function (e) {
+			player.openUrl("https:\/\/www.zona-innmueble.com\/inmuebles","_blank");
+		}
 		me._text_1.ggUpdatePosition=function (useTransition) {
 		}
 		me.divSkin.appendChild(me._text_1);
@@ -11191,9 +11194,9 @@ alert("The current view has been copied.");
 		hs+='border : 0px solid #000000;';
 		hs+='color : rgba(170,0,0,1);';
 		hs+='height : 29px;';
-		hs+='left : -6px;';
+		hs+='left : -8px;';
 		hs+='position : absolute;';
-		hs+='top : 530px;';
+		hs+='top : 681px;';
 		hs+='visibility : inherit;';
 		hs+='width : 277px;';
 		hs+='pointer-events:auto;';
