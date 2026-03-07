@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0 beta 2/22072
 // Filename: feather_box_tours.ggsk
-// Generated 2026-03-07T22:22:46Z
+// Generated 2026-03-07T22:30:36Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -722,12 +722,12 @@ function pano2vrSkin(player,base) {
 		el.userData=el;
 		hs ='';
 		hs+='height : 100%;';
-		hs+='left : -101px;';
+		hs+='left : -100px;';
 		hs+='opacity : 0;';
 		hs+='position : absolute;';
-		hs+='top : -91px;';
+		hs+='top : -100px;';
 		hs+='visibility : hidden;';
-		hs+='width : 109.2%;';
+		hs+='width : 100%;';
 		hs+='pointer-events:none;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -11081,8 +11081,8 @@ alert("The current view has been copied.");
 		hs ='';
 		hs+='height : 101px;';
 		hs+='position : absolute;';
-		hs+='right : 20px;';
-		hs+='top : 7px;';
+		hs+='right : 162px;';
+		hs+='top : 14px;';
 		hs+='visibility : inherit;';
 		hs+='width : 132px;';
 		hs+='pointer-events:auto;';
