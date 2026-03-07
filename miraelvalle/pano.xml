@@ -15,8 +15,8 @@
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="6.11433" id="Point01" pan="-3.44" skinid="ht_node" target="$fwd" tilt="-5.15" title="Garage" url="{node22}"/>
-      <hotspot description="" distance="37.9378" id="Point03" pan="-52.31" skinid="ht_node" target="-8.9/19.6/100.0" tilt="-4.74" title="Jardin Trasero" url="{node1}"/>
+      <hotspot description="" distance="6.11433" id="Point01" pan="-3.44" skinid="ht_node" target="$fwd" tilt="-5.15" title="Garaje" url="{node22}"/>
+      <hotspot description="" distance="37.9378" id="Point03" pan="-52.31" skinid="ht_node" target="-8.9/19.6/100.0" tilt="-4.74" title="Area de jardin" url="{node1}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -36,8 +36,8 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="180" skinid="ht_node" target="127.8/-7.9/100.0" tilt="0" title="Garage 2" url="{node22}"/>
-      <hotspot description="" distance="1.50626" id="Point02" pan="10.49" skinid="ht_node" target="-0.6/-24.1/100.0" tilt="-8.47" title="Ingreso a la Casa" url="{node21}"/>
+      <hotspot description="" id="Point01" pan="180" skinid="ht_node" target="127.8/-7.9/100.0" tilt="0" title="Garaje" url="{node22}"/>
+      <hotspot description="" distance="1.50626" id="Point02" pan="10.49" skinid="ht_node" target="-0.6/-24.1/100.0" tilt="-8.47" title="Ingreso a casa" url="{node21}"/>
       <hotspot description="" distance="6.11433" id="Point03" pan="-86.97" skinid="ht_node" target="-39.8/1.6/100.0" tilt="-7.9" title="Salida" url="{node23}"/>
     </hotspots>
     <media/>
@@ -59,9 +59,9 @@
     </view>
     <hotspots>
       <hotspot description="" distance="6.11433" id="Point01" pan="-100.03" skinid="ht_node" target="$fwd" tilt="-13.84" title="Salida" url="{node23}"/>
-      <hotspot description="" id="Point02" pan="180" skinid="ht_node" target="$fwd" tilt="0" title="Garage 1" url="{node24}"/>
-      <hotspot description="" distance="1.50626" id="Point03" pan="112.41" skinid="ht_node" target="-3.8/-14.9/100.0" tilt="-20.84" title="Entrada Casa" url="{node21}"/>
-      <hotspot description="" id="Point04" pan="10.78" skinid="ht_node" target="147.2/-5.3/100.0" tilt="-7" title="Entrada Casa" url="{node22}"/>
+      <hotspot description="" id="Point02" pan="180" skinid="ht_node" target="$fwd" tilt="0" title="Garaje" url="{node24}"/>
+      <hotspot description="" distance="1.50626" id="Point03" pan="112.41" skinid="ht_node" target="-3.8/-14.9/100.0" tilt="-20.84" title="Entrada a casa" url="{node21}"/>
+      <hotspot description="" id="Point04" pan="10.78" skinid="ht_node" target="147.2/-5.3/100.0" tilt="-7" title="Entrada a casa" url="{node22}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -81,11 +81,10 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="1.50626" id="Point01" pan="-149.37" skinid="ht_node" target="-149.4/0.0/100.0" tilt="-15.87" title="" url="{node22}"/>
       <hotspot description="" distance="11.2682" id="Point03" pan="12.33" skinid="ht_node" target="-17.3/-9.6/100.0" tilt="-15.63" title="Cocina" url="{node18}"/>
       <hotspot description="" distance="9.96043" id="Point04" pan="-10.8" skinid="ht_node" target="-24.8/-14.5/100.0" tilt="-15.79" title="Comedor" url="{node19}"/>
-      <hotspot description="" distance="7.47583" id="Point05" pan="-176.69" skinid="ht_node" target="$fwd" tilt="-7.96" title="" url="{node23}"/>
-      <hotspot description="" distance="7.73883" id="Point02" pan="9.78" skinid="ht_node" target="-14.7/-37.8/124.8" tilt="-30.32" title="Gradas para Dormitorios" url="{node16}"/>
+      <hotspot description="" distance="7.47583" id="Point05" pan="-176.69" skinid="ht_node" target="$fwd" tilt="-7.96" title="Salida de casa" url="{node23}"/>
+      <hotspot description="" distance="7.73883" id="Point02" pan="9.78" skinid="ht_node" target="-14.7/-37.8/124.8" tilt="-30.32" title="Gradas para dormitorios" url="{node16}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -105,12 +104,12 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="8.38133" id="Point01" pan="65.78" skinid="ht_node" target="12.0/-13.8/100.0" tilt="-6.42" title="Entrada Cocina" url="{node18}"/>
+      <hotspot description="" distance="8.38133" id="Point01" pan="65.78" skinid="ht_node" target="12.0/-13.8/100.0" tilt="-6.42" title="Entrada a cocina" url="{node18}"/>
       <hotspot description="" distance="4.48741" id="Point02" pan="-97.16" skinid="ht_node" target="$fwd" tilt="0" title="" url="{node7}"/>
       <hotspot description="" distance="4.61472" id="Point03" pan="-166.48" skinid="ht_node" target="-71.3/-25.8/113.6" tilt="-8.59" title="Sala" url="{node20}"/>
-      <hotspot description="" distance="7.76283" id="Point04" pan="-33" skinid="ht_node" target="-100.8/-16.1/100.0" tilt="-2.19" title="Balcon" url="{node15}"/>
-      <hotspot description="" distance="5.28604" id="Point05" pan="160.9" skinid="ht_node" target="$fwd" tilt="-6.48" title="Baño Visitas" url="{node17}"/>
-      <hotspot description="" distance="9.96043" id="Point06" pan="123.75" skinid="ht_node" target="-1.3/-18.1/53.5" tilt="-19.9" title="Vestibulo" url="{node21}"/>
+      <hotspot description="" distance="7.76283" id="Point04" pan="-33" skinid="ht_node" target="-100.8/-16.1/100.0" tilt="-2.19" title="Balcón" url="{node15}"/>
+      <hotspot description="" distance="5.28604" id="Point05" pan="160.9" skinid="ht_node" target="$fwd" tilt="-6.48" title="Baño de visitas" url="{node17}"/>
+      <hotspot description="" distance="9.96043" id="Point06" pan="123.75" skinid="ht_node" target="-1.3/-18.1/53.5" tilt="-19.9" title="Vestíbulo" url="{node21}"/>
       <hotspot description="" id="Point07" pan="-6.5" skinid="ht_node" target="78.2/-20.3/120.9" tilt="-2.47" title="Cocina" url="{node19}"/>
     </hotspots>
     <media/>
@@ -131,10 +130,10 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="11.2682" id="Point01" pan="146.59" skinid="ht_node" target="-0.5/-16.0/54.9" tilt="-15.16" title="Vestibulo" url="{node21}"/>
+      <hotspot description="" distance="11.2682" id="Point01" pan="146.59" skinid="ht_node" target="-0.5/-16.0/54.9" tilt="-15.16" title="Vestíbulo" url="{node21}"/>
       <hotspot description="" distance="2.20259" id="Point02" pan="-99.1502" skinid="ht_node" target="$fwd" tilt="0" title="" url="{node15}"/>
       <hotspot description="" distance="8.38133" id="Point03" pan="-176.9" skinid="ht_node" target="-19.9/-8.3/120.9" tilt="-5.69" title="Comedor" url="{node19}"/>
-      <hotspot description="" id="Point05" pan="-7.9" skinid="ht_node" target="144.3/-12.4/113.0" tilt="-6.61" title="Salida Cocina" url="{node18}"/>
+      <hotspot description="" id="Point05" pan="-7.9" skinid="ht_node" target="144.3/-12.4/113.0" tilt="-6.61" title="Salida de cocina" url="{node18}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -155,10 +154,10 @@
     </view>
     <hotspots>
       <hotspot description="" distance="4.61472" id="Point01" pan="39.5" skinid="ht_node" target="-23.6/-20.6/120.9" tilt="-16.8" title="Comedor" url="{node19}"/>
-      <hotspot description="" distance="1.72626" id="Point02" pan="72.97" skinid="ht_node" target="-111.6/-30.3/129.8" tilt="-15.99" title="Baño Visitas" url="{node17}"/>
-      <hotspot description="" distance="11.0231" id="Point03" pan="44.42" skinid="ht_node" target="1.2/-21.2/35.9" tilt="-2.98" title="Vestibulo" url="{node21}"/>
-      <hotspot description="" distance="12.3772" id="Point04" pan="-83.82" skinid="ht_node" target="-97.7/-5.2/100.0" tilt="-6.67" title="Balcon" url="{node15}"/>
-      <hotspot description="" id="Point05" pan="-58.23" skinid="ht_node" target="44.9/-15.4/113.6" tilt="-6.71" title="Salida Sala" url="{node20}"/>
+      <hotspot description="" distance="1.72626" id="Point02" pan="72.97" skinid="ht_node" target="-111.6/-30.3/129.8" tilt="-15.99" title="Baño visitas" url="{node17}"/>
+      <hotspot description="" distance="11.0231" id="Point03" pan="44.42" skinid="ht_node" target="1.2/-21.2/35.9" tilt="-2.98" title="Vestíbulo" url="{node21}"/>
+      <hotspot description="" distance="12.3772" id="Point04" pan="-83.82" skinid="ht_node" target="-97.7/-5.2/100.0" tilt="-6.67" title="Balcón" url="{node15}"/>
+      <hotspot description="" id="Point05" pan="-58.23" skinid="ht_node" target="44.9/-15.4/113.6" tilt="-6.71" title="Salida sala" url="{node20}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -178,7 +177,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="1.72626" id="Point01" pan="-168.57" skinid="ht_node" target="41.2/-13.9/113.6" tilt="-16.41" title="SAlida Baño " url="{node20}"/>
+      <hotspot description="" distance="1.72626" id="Point01" pan="-168.57" skinid="ht_node" target="41.2/-13.9/113.6" tilt="-16.41" title="Salida baño visitas" url="{node20}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -198,8 +197,8 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="21.4306" id="Point01" pan="0.38" skinid="ht_node" target="-3.5/-15.4/100.0" tilt="-32.5" title="Dormitorios Planta Baja" url="{node27}"/>
-      <hotspot description="" distance="6.20015" id="Point02" pan="-136.58" skinid="ht_node" target="-138.6/-9.7/100.0" tilt="-10.54" title="Entrada Cocina" url="{node18}"/>
+      <hotspot description="" distance="21.4306" id="Point01" pan="0.38" skinid="ht_node" target="-3.5/-15.4/100.0" tilt="-32.5" title="Dormitorios planta baja" url="{node27}"/>
+      <hotspot description="" distance="6.20015" id="Point02" pan="-136.58" skinid="ht_node" target="-138.6/-9.7/100.0" tilt="-10.54" title="Entrada cocina" url="{node18}"/>
       <hotspot description="" distance="6.99525" id="Point05" pan="135.06" skinid="ht_node" target="79.9/-18.0/120.9" tilt="-8.1" title="Sala" url="{node20}"/>
       <hotspot description="" distance="7.73883" id="Point04" pan="62.27" skinid="ht_node" target="-0.1/-21.5/49.5" tilt="-34.61" title="Vestibulo" url="{node21}"/>
     </hotspots>
@@ -223,8 +222,8 @@
     <hotspots>
       <hotspot description="" distance="7.76283" id="Point02" pan="-165.01" skinid="ht_node" target="176.2/-26.5/120.9" tilt="-10.59" title="Comedor" url="{node19}"/>
       <hotspot description="" distance="12.3772" id="Point01" pan="-151.49" skinid="ht_node" target="-92.1/-8.3/100.0" tilt="-10.53" title="Sala" url="{node20}"/>
-      <hotspot description="" id="Point04" pan="-112.7" skinid="ht_node" target="-117.8/-4.6/27.0" tilt="-1.14" title="Vista a la Ciudad" url="{node15}"/>
-      <hotspot description="" id="Point05" pan="-121.37" skinid="ht_node" target="-164.3/-10.5/100.0" tilt="-1.27" title="Pergola" url="{node15}"/>
+      <hotspot description="" id="Point04" pan="-112.7" skinid="ht_node" target="-117.8/-4.6/27.0" tilt="-1.14" title="Vista a la ciudad" url="{node15}"/>
+      <hotspot description="" id="Point05" pan="-121.37" skinid="ht_node" target="-164.3/-10.5/100.0" tilt="-1.27" title="Pérgola" url="{node15}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -245,11 +244,11 @@
     </view>
     <hotspots>
       <hotspot description="" distance="21.4306" id="Point01" pan="3.41" skinid="ht_node" target="118.3/-13.3/125.4" tilt="-6.35" title="Subir" url="{node16}"/>
-      <hotspot description="" distance="19.7497" id="Point02" pan="-80.53" skinid="ht_node" target="9.4/-12.7/110.6" tilt="-12.28" title="Dormitorio Principal" url="{node26}"/>
-      <hotspot description="" id="Point03" pan="-107.54" skinid="ht_node" target="176.7/-10.8/100.0" tilt="-11.59" title="Area Dormitorios" url="{node27}"/>
-      <hotspot description="" distance="23.4939" id="Point04" pan="178.01" skinid="ht_node" target="82.0/-9.6/100.0" tilt="-6.5" title="Dormitorio 1" url="{node11}"/>
-      <hotspot description="" distance="29.3137" id="Point05" pan="152.24" skinid="ht_node" target="-26.0/-9.6/112.4" tilt="-6.42" title="Dormitorio 2" url="{node10}"/>
-      <hotspot description="" distance="28.7339" id="Point06" pan="149.18" skinid="ht_node" target="-124.2/-18.1/100.0" tilt="-29.43" title="Baño Compartido" url="{node9}"/>
+      <hotspot description="" distance="19.7497" id="Point02" pan="-80.53" skinid="ht_node" target="9.4/-12.7/110.6" tilt="-12.28" title="Dormitorio principal (1)" url="{node26}"/>
+      <hotspot description="" id="Point03" pan="-107.54" skinid="ht_node" target="176.7/-10.8/100.0" tilt="-11.59" title="Area de dormitorios" url="{node27}"/>
+      <hotspot description="" distance="23.4939" id="Point04" pan="178.01" skinid="ht_node" target="82.0/-9.6/100.0" tilt="-6.5" title="Dormitorio (2)" url="{node11}"/>
+      <hotspot description="" distance="29.3137" id="Point05" pan="152.24" skinid="ht_node" target="-26.0/-9.6/112.4" tilt="-6.42" title="Dormitorio (3)" url="{node10}"/>
+      <hotspot description="" distance="28.7339" id="Point06" pan="149.18" skinid="ht_node" target="-124.2/-18.1/100.0" tilt="-29.43" title="Baño compartido" url="{node9}"/>
       <hotspot description="" distance="28.7339" id="Point07" pan="-37.74" skinid="ht_node" target="-99.7/-9.0/100.0" tilt="-38.17" title="Bajar" url="{node7}"/>
     </hotspots>
     <media/>
@@ -270,7 +269,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="2.15773" id="Point01" pan="60.61" skinid="ht_node" target="50.9/-21.3/100.0" tilt="-12.84" title="Baño Dormitorio principal" url="{node12}"/>
+      <hotspot description="" distance="2.15773" id="Point01" pan="60.61" skinid="ht_node" target="50.9/-21.3/100.0" tilt="-12.84" title="Baño de dormitorio principal" url="{node12}"/>
       <hotspot description="" distance="19.7497" id="Point02" pan="131.29" skinid="ht_node" target="-177.5/-10.5/100.0" tilt="-8.19" title="Area Dormitorios" url="{node27}"/>
     </hotspots>
     <media/>
@@ -292,8 +291,8 @@
     </view>
     <hotspots>
       <hotspot description="" distance="7.11593" id="Point01" pan="137.91" skinid="ht_node" target="$fwd" tilt="0" title="" url="{node21}"/>
-      <hotspot description="" distance="2.15773" id="Point03" pan="-141.7" skinid="ht_node" target="82.6/-10.9/111.0" tilt="-7.74" title="Dormitorio Principal" url="{node26}"/>
-      <hotspot description="" id="Point02" pan="6.68" skinid="ht_node" target="-109.4/-7.6/79.0" tilt="-6.15" title="Walk in Closet" url="{node12}"/>
+      <hotspot description="" distance="2.15773" id="Point03" pan="-141.7" skinid="ht_node" target="82.6/-10.9/111.0" tilt="-7.74" title="Dormitorio principal" url="{node26}"/>
+      <hotspot description="" id="Point02" pan="6.68" skinid="ht_node" target="-109.4/-7.6/79.0" tilt="-6.15" title="Walk in closet" url="{node12}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -313,7 +312,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="23.4939" id="Point04" pan="-170.48" skinid="ht_node" target="158.7/-10.5/100.0" tilt="-2.38" title="Area Dormitorios" url="{node27}"/>
+      <hotspot description="" distance="23.4939" id="Point04" pan="-170.48" skinid="ht_node" target="158.7/-10.5/100.0" tilt="-2.38" title="Area de dormitorios" url="{node27}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -333,7 +332,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="29.3137" id="Point01" pan="179.18" skinid="ht_node" target="174.0/-6.5/100.0" tilt="-9.03" title="Area de Dormitorios" url="{node27}"/>
+      <hotspot description="" distance="29.3137" id="Point01" pan="179.18" skinid="ht_node" target="174.0/-6.5/100.0" tilt="-9.03" title="Area de dormitorios" url="{node27}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -353,7 +352,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="28.7339" id="Point01" pan="-161.54" skinid="ht_node" target="150.1/-7.5/100.0" tilt="-11.96" title="Area Dormitorios" url="{node27}"/>
+      <hotspot description="" distance="28.7339" id="Point01" pan="-161.54" skinid="ht_node" target="150.1/-7.5/100.0" tilt="-11.96" title="Area de dormitorios" url="{node27}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -373,10 +372,11 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="28.7339" id="Point03" pan="-11.74" skinid="ht_node" target="-17.6/-23.2/100.0" tilt="-20.76" title="Area de Dormitorios" url="{node27}"/>
-      <hotspot description="" id="Point01" pan="-74.54" skinid="ht_node" target="-37.8/-11.8/100.0" tilt="-13.17" title="Dormitorio 3" url="{node6}"/>
-      <hotspot description="" distance="5.84348" id="Point02" pan="165.64" skinid="ht_node" target="0.1/-1.8/100.0" tilt="-7.51" title="Sala Familiar" url="{node5}"/>
-      <hotspot description="" id="Point04" pan="133.33" skinid="ht_node" target="139.4/-10.2/81.3" tilt="-17.15" title="Closet de Blancos" url="{node7}"/>
+      <hotspot description="" distance="28.7339" id="Point03" pan="-11.74" skinid="ht_node" target="-17.6/-23.2/100.0" tilt="-20.76" title="Subir" url="{node27}"/>
+      <hotspot description="" id="Point01" pan="-74.54" skinid="ht_node" target="-37.8/-11.8/100.0" tilt="-13.17" title="Dormitorio (4)" url="{node6}"/>
+      <hotspot description="" distance="5.84348" id="Point02" pan="165.64" skinid="ht_node" target="0.1/-1.8/100.0" tilt="-7.51" title="Sala familiar" url="{node5}"/>
+      <hotspot description="" id="Point04" pan="133.33" skinid="ht_node" target="139.4/-10.2/81.3" tilt="-17.15" title="Closet de blancos" url="{node7}"/>
+      <hotspot description="" id="Point05" pan="-141.81" skinid="ht_node" target="-140.4/-5.1/26.0" tilt="-9.49" title="Dormitorio (5)" url="{node7}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -396,7 +396,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="148.68" skinid="ht_node" target="162.4/-3.9/120.8" tilt="-10.75" title="Area Sala Familiar" url="{node7}"/>
+      <hotspot description="" id="Point01" pan="148.68" skinid="ht_node" target="162.4/-3.9/120.8" tilt="-10.75" title="Area sala familiar" url="{node7}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -417,7 +417,7 @@
     </view>
     <hotspots>
       <hotspot description="" id="Point01" pan="70.36" skinid="ht_node" target="-22.8/-13.8/100.0" tilt="-11.45" title="A Cava" url="{node3}"/>
-      <hotspot description="" id="Point02" pan="0" skinid="ht_node" target="95.8/-11.1/100.0" tilt="0" title="Salida Sala Familiar" url="{node5}"/>
+      <hotspot description="" id="Point02" pan="0" skinid="ht_node" target="95.8/-11.1/100.0" tilt="0" title="Salida sala familiar" url="{node5}"/>
       <hotspot description="" id="Point04" pan="-23.43" skinid="ht_node" target="-167.1/-9.9/111.1" tilt="-0.45" title="Búcaro" url="{node5}"/>
       <hotspot description="" id="Point03" pan="177.03" skinid="ht_node" target="-21.2/-18.3/100.0" tilt="-12.78" title="Cava" url="{node3}"/>
     </hotspots>
@@ -439,9 +439,9 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-55.65" skinid="ht_node" target="14.9/-8.4/51.5" tilt="-20.67" title="Sala Familiar" url="{node5}"/>
+      <hotspot description="" id="Point01" pan="-55.65" skinid="ht_node" target="14.9/-8.4/51.5" tilt="-20.67" title="Sala familiar" url="{node5}"/>
       <hotspot description="" distance="3.5122" id="Point02" pan="9.89" skinid="ht_node" target="153.8/-16.2/100.0" tilt="-33.49" title="Cava y salida jardin" url="{node4}"/>
-      <hotspot description="" distance="5.84348" id="Point03" pan="177.97" skinid="ht_node" target="-112.3/-7.1/120.8" tilt="-8.21" title="Area de Dormitorios" url="{node7}"/>
+      <hotspot description="" distance="5.84348" id="Point03" pan="177.97" skinid="ht_node" target="-112.3/-7.1/120.8" tilt="-8.21" title="Area de dormitorios" url="{node7}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -484,7 +484,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="8.72841" id="Point02" pan="-8.61" skinid="ht_node" target="-14.2/21.5/100.0" tilt="-31.96" title="Jardin" url="{node1}"/>
+      <hotspot description="" distance="8.72841" id="Point02" pan="-8.61" skinid="ht_node" target="-14.2/21.5/100.0" tilt="-31.96" title="Descenso jardin" url="{node1}"/>
       <hotspot description="" distance="7.11959" id="Point04" pan="-102.62" skinid="ht_node" target="147.0/-17.7/100.0" tilt="-12.92" title="Cava" url="{node4}"/>
     </hotspots>
     <media/>
@@ -505,14 +505,14 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="8.72841" id="Point03" pan="-17.59" skinid="ht_node" target="-56.9/-12.5/127.4" tilt="21.48" title="Jardin" url="{node2}"/>
-      <hotspot description="" distance="37.9378" id="Point01" pan="22.39" skinid="ht_node" target="-34.2/-7.9/100.0" tilt="25.32" title="Entrada a Casa" url="{node23}"/>
+      <hotspot description="" distance="8.72841" id="Point03" pan="-17.59" skinid="ht_node" target="-56.9/-12.5/127.4" tilt="21.48" title="Ascenso jardin" url="{node2}"/>
+      <hotspot description="" distance="37.9378" id="Point01" pan="22.39" skinid="ht_node" target="-34.2/-7.9/100.0" tilt="25.32" title="Entrada a casa" url="{node23}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="VI" comment="" copyright="VinculoInmobiliario" description="" tags="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://www.zona-innmueble.com/inmuebles&quot;>Miralvalle&lt;/a>&lt;/p>&#xa;&lt;div>"/>
+    <userdata author="VI" comment="" copyright="VinculoInmobiliario" description="" tags="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://www.zona-innmueble.com/inmuebles&quot;>Casa Miralvalle&lt;/a>&lt;/p>&#xa;&lt;div>"/>
     <transition blendcolor="0x000000" blendtime="2" delay="none" enabled="1" softedge="0" type="mesh" zoomafterinfov="120" zoomafteroutfov="20" zoomfov="20" zoomin="7" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="1" contextvr="1" dblclickfullscreen="0" hideabout="1" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="7" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
