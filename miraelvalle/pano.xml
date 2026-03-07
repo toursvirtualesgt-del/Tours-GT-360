@@ -9,10 +9,10 @@
     </input>
     <userdata altitude="0.00" author="" comment="" copyright="" customnodeid="" datetime="25/02/2026 15:37" description="" heading="0" hideinlist="0" info="" latitude="14.61245471" longitude="-90.62369775" nodeid="node23" source="" tags="Exportacinsinttulo" title=""/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="-8.15936" projection="4" tilt="-1.28763"/>
+      <start fov="98.714" pan="-11.6372" projection="4" tilt="-0.214877"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="1" pan="0" tilt="-90"/>
-      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
     </view>
     <hotspots>
       <hotspot description="" distance="6.11433" id="Point01" pan="-3.44" skinid="ht_node" target="$fwd" tilt="-5.15" title="Garage" url="{node22}"/>
@@ -334,7 +334,6 @@
     </view>
     <hotspots>
       <hotspot description="" distance="29.3137" id="Point01" pan="179.18" skinid="ht_node" target="174.0/-6.5/100.0" tilt="-9.03" title="Area de Dormitorios" url="{node27}"/>
-      <hotspot description="" distance="6.61789" id="Point04" pan="55.2078" skinid="ht_node" target="93.7476/0/100" tilt="0" title="" url="{node11}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -420,7 +419,7 @@
       <hotspot description="" id="Point01" pan="70.36" skinid="ht_node" target="-22.8/-13.8/100.0" tilt="-11.45" title="A Cava" url="{node3}"/>
       <hotspot description="" id="Point02" pan="0" skinid="ht_node" target="95.8/-11.1/100.0" tilt="0" title="Salida Sala Familiar" url="{node5}"/>
       <hotspot description="" id="Point04" pan="-23.43" skinid="ht_node" target="-167.1/-9.9/111.1" tilt="-0.45" title="Búcaro" url="{node5}"/>
-      <hotspot description="" id="Point03" pan="177.03" skinid="ht_node" target="$fwd" tilt="-12.78" title="Cava" url="{node3}"/>
+      <hotspot description="" id="Point03" pan="177.03" skinid="ht_node" target="-21.2/-18.3/100.0" tilt="-12.78" title="Cava" url="{node3}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -513,9 +512,9 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title=""/>
+    <userdata author="VI" comment="" copyright="VinculoInmobiliario" description="" tags="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>&lt;a href=&quot;https://www.zona-innmueble.com/inmuebles&quot;>Miralvalle&lt;/a>&lt;/p>&#xa;&lt;div>"/>
     <transition blendcolor="0x000000" blendtime="2" delay="none" enabled="1" softedge="0" type="mesh" zoomafterinfov="120" zoomafteroutfov="20" zoomfov="20" zoomin="7" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
-    <control contextfullscreen="1" contextprojections="1" contextvr="1" dblclickfullscreen="0" hideabout="1" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="6" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <control contextfullscreen="1" contextprojections="1" contextvr="1" dblclickfullscreen="0" hideabout="1" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="7" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>

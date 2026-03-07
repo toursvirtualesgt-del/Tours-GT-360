@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0 beta 2/22072
 // Filename: feather_box_tours.ggsk
-// Generated 2026-03-05T03:48:03Z
+// Generated 2026-03-07T21:57:54Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -722,12 +722,12 @@ function pano2vrSkin(player,base) {
 		el.userData=el;
 		hs ='';
 		hs+='height : 100%;';
-		hs+='left : 0px;';
+		hs+='left : -101px;';
 		hs+='opacity : 0;';
 		hs+='position : absolute;';
-		hs+='top : 0px;';
+		hs+='top : -91px;';
 		hs+='visibility : hidden;';
-		hs+='width : 100%;';
+		hs+='width : 105.1%;';
 		hs+='pointer-events:none;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -2721,8 +2721,8 @@ function pano2vrSkin(player,base) {
 		hs+='cursor : pointer;';
 		hs+='height : 50px;';
 		hs+='position : absolute;';
-		hs+='right : 0px;';
-		hs+='top : 0px;';
+		hs+='right : 1px;';
+		hs+='top : -2px;';
 		hs+='visibility : inherit;';
 		hs+='width : 50px;';
 		hs+='pointer-events:auto;';
@@ -2789,8 +2789,8 @@ navigator.share({ url: shareUrl });
 		hs ='';
 		hs+='height : 38px;';
 		hs+='position : absolute;';
-		hs+='right : 6px;';
-		hs+='top : 6px;';
+		hs+='right : 5px;';
+		hs+='top : 7px;';
 		hs+='visibility : inherit;';
 		hs+='width : 38px;';
 		hs+='pointer-events:auto;';
@@ -11080,9 +11080,9 @@ alert("The current view has been copied.");
 		el.userData=el;
 		hs ='';
 		hs+='height : 101px;';
-		hs+='left : 10px;';
 		hs+='position : absolute;';
-		hs+='top : 8px;';
+		hs+='right : 50px;';
+		hs+='top : 9px;';
 		hs+='visibility : inherit;';
 		hs+='width : 132px;';
 		hs+='pointer-events:auto;';
@@ -11123,63 +11123,6 @@ alert("The current view has been copied.");
 		me._container_1.ggUpdatePosition=function (useTransition) {
 		}
 		me.divSkin.appendChild(me._container_1);
-		el=me._text_1=document.createElement('div');
-		els=me._text_1__text=document.createElement('div');
-		el.className='ggskin ggskin_textdiv';
-		el.ggTextDiv=els;
-		el.ggId="Text 1";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_text ";
-		el.ggType='text';
-		el.userData=el;
-		hs ='';
-		hs+='color : #000000;';
-		hs+='height : auto;';
-		hs+='left : 5px;';
-		hs+='position : absolute;';
-		hs+='top : 119px;';
-		hs+='visibility : inherit;';
-		hs+='width : 372px;';
-		hs+='pointer-events:auto;';
-		el.setAttribute('style',hs);
-		el.style.transformOrigin='50% 50%';
-		hs='';
-		hs+='border : 0px solid #000000;';
-		hs+='box-sizing: border-box;';
-		hs+='width: 100%;';
-		hs+='height: auto;';
-		hs+='font-size: 24px;';
-		hs+='font-weight: bolder;';
-		hs+='text-align: center;';
-		hs+='white-space: pre-line;';
-		hs+='padding: 0px;';
-		hs+='overflow: hidden;';
-		hs+='overflow-y: auto;';
-		els.setAttribute('style',hs);
-		me._text_1.ggUpdateText=function() {
-			var params = [];
-			var hs = player._("CASA ALTOS DE MIRAELVALLE", params);
-			if (hs!=this.ggText) {
-				this.ggText=hs;
-				this.ggTextDiv.innerHTML=hs;
-				if (this.ggUpdatePosition) this.ggUpdatePosition();
-			}
-		}
-		me._text_1.ggUpdateText();
-		el.appendChild(els);
-		me._text_1.ggIsActive=function() {
-			return false;
-		}
-		el.ggElementNodeId=function() {
-			return player.getCurrentNode();
-		}
-		me._text_1.onclick=function (e) {
-			player.openUrl("https:\/\/www.zona-innmueble.com\/inmuebles","_blank");
-		}
-		me._text_1.ggUpdatePosition=function (useTransition) {
-		}
-		me.divSkin.appendChild(me._text_1);
 		el=me._text_2=document.createElement('div');
 		els=me._text_2__text=document.createElement('div');
 		el.className='ggskin ggskin_textdiv';
