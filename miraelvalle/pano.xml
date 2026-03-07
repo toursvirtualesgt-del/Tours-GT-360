@@ -376,7 +376,8 @@
       <hotspot description="" id="Point01" pan="-74.54" skinid="ht_node" target="-37.8/-11.8/100.0" tilt="-13.17" title="Dormitorio (4)" url="{node6}"/>
       <hotspot description="" distance="5.84348" id="Point02" pan="165.64" skinid="ht_node" target="0.1/-1.8/100.0" tilt="-7.51" title="Sala familiar" url="{node5}"/>
       <hotspot description="" id="Point04" pan="133.33" skinid="ht_node" target="139.4/-10.2/81.3" tilt="-17.15" title="Closet de blancos" url="{node7}"/>
-      <hotspot description="" id="Point05" pan="-141.81" skinid="ht_node" target="-140.4/-5.1/26.0" tilt="-9.49" title="Dormitorio (5)" url="{node7}"/>
+      <hotspot description="" id="Point05" pan="-132.68" skinid="ht_node" target="-140.4/-5.1/26.0" tilt="-5.18" title="Dormitorio (5)" url="{node7}"/>
+      <hotspot description="" id="Point06" pan="-147.77" skinid="ht_node" target="-163.8/-16.3/120.8" tilt="-5.34" title="Sala familiar" url="{node7}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
