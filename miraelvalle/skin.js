@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0 beta 2/22072
 // Filename: feather_box_tours.ggsk
-// Generated 2026-03-07T22:34:36Z
+// Generated 2026-03-07T22:38:39Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -722,12 +722,12 @@ function pano2vrSkin(player,base) {
 		el.userData=el;
 		hs ='';
 		hs+='height : 100%;';
-		hs+='left : -100px;';
+		hs+='left : 0px;';
 		hs+='opacity : 0;';
 		hs+='position : absolute;';
-		hs+='top : -100px;';
+		hs+='top : 0px;';
 		hs+='visibility : hidden;';
-		hs+='width : 108.8%;';
+		hs+='width : 100%;';
 		hs+='pointer-events:none;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -11079,12 +11079,12 @@ alert("The current view has been copied.");
 		el.ggType='image';
 		el.userData=el;
 		hs ='';
-		hs+='height : 101px;';
+		hs+='height : 100px;';
 		hs+='position : absolute;';
-		hs+='right : 18px;';
-		hs+='top : 11px;';
+		hs+='right : 0px;';
+		hs+='top : 0px;';
 		hs+='visibility : inherit;';
-		hs+='width : 132px;';
+		hs+='width : 100px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 0%';
