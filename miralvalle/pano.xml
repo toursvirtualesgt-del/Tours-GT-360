@@ -59,9 +59,9 @@
     </view>
     <hotspots>
       <hotspot description="" distance="6.11433" id="Point01" pan="-100.03" skinid="ht_node" target="$fwd" tilt="-13.84" title="Salida" url="{node23}"/>
-      <hotspot description="" id="Point02" pan="180" skinid="ht_node" target="$fwd" tilt="0" title="Garaje" url="{node24}"/>
+      <hotspot description="" id="Point02" pan="180" skinid="ht_node" target="55.4/-13.3/100.0" tilt="0" title="Garaje" url="{node24}"/>
       <hotspot description="" distance="1.50626" id="Point03" pan="112.41" skinid="ht_node" target="-3.8/-14.9/100.0" tilt="-20.84" title="Entrada a casa" url="{node21}"/>
-      <hotspot description="" id="Point04" pan="10.78" skinid="ht_node" target="147.2/-5.3/100.0" tilt="-7" title="Entrada a casa" url="{node22}"/>
+      <hotspot description="" id="Point04" pan="10.78" skinid="ht_node" target="128.5/-4.7/100.0" tilt="-7" title="Entrada a casa" url="{node22}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
