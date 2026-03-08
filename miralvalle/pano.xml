@@ -246,10 +246,10 @@
       <hotspot description="" distance="21.4306" id="Point01" pan="3.41" skinid="ht_node" target="118.3/-13.3/125.4" tilt="-6.35" title="Subir" url="{node16}"/>
       <hotspot description="" distance="19.7497" id="Point02" pan="-80.53" skinid="ht_node" target="9.4/-12.7/110.6" tilt="-12.28" title="Dormitorio principal (1)" url="{node26}"/>
       <hotspot description="" id="Point03" pan="-107.54" skinid="ht_node" target="176.7/-10.8/100.0" tilt="-11.59" title="Area de dormitorios" url="{node27}"/>
-      <hotspot description="" distance="23.4939" id="Point04" pan="178.01" skinid="ht_node" target="82.0/-9.6/100.0" tilt="-6.5" title="Dormitorio (2)" url="{node11}"/>
-      <hotspot description="" distance="29.3137" id="Point05" pan="152.24" skinid="ht_node" target="-26.0/-9.6/112.4" tilt="-6.42" title="Dormitorio (3)" url="{node10}"/>
       <hotspot description="" distance="28.7339" id="Point06" pan="149.18" skinid="ht_node" target="-124.2/-18.1/100.0" tilt="-29.43" title="Baño compartido" url="{node9}"/>
       <hotspot description="" distance="28.7339" id="Point07" pan="-37.74" skinid="ht_node" target="-99.7/-9.0/100.0" tilt="-38.17" title="Bajar" url="{node7}"/>
+      <hotspot description="" id="Point04" pan="179.19" skinid="ht_node" target="-178.3/-5.8/56.4" tilt="-4.61" title="Dormitorio (2)" url="{node27}"/>
+      <hotspot description="" id="Point05" pan="154.78" skinid="ht_node" target="150.1/-8.9/50.3" tilt="-5.52" title="Dormitorio (3)" url="{node27}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -297,46 +297,6 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama hideabout="1" id="node11">
-    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
-      <level height="2976" predecode="0" preload="0" width="2976"/>
-      <level height="1488" predecode="0" preload="0" width="1488"/>
-      <level height="744" predecode="1" preload="1" width="744"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <userdata altitude="0.00" author="" comment="" copyright="" customnodeid="" datetime="25/02/2026 15:53" description="" heading="0" hideinlist="0" info="" latitude="14.61254370" longitude="-90.62354682" nodeid="node11" source="" tags="Exportacinsinttulo" title=""/>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" pan="73.5176" projection="4" tilt="-14.8353"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="1" pan="0" tilt="-90"/>
-      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
-    </view>
-    <hotspots>
-      <hotspot description="" distance="23.4939" id="Point04" pan="-170.48" skinid="ht_node" target="158.7/-10.5/100.0" tilt="-2.38" title="Area de dormitorios" url="{node27}"/>
-    </hotspots>
-    <media/>
-    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
-  </panorama>
-  <panorama hideabout="1" id="node10">
-    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
-      <level height="2976" predecode="0" preload="0" width="2976"/>
-      <level height="1488" predecode="0" preload="0" width="1488"/>
-      <level height="744" predecode="1" preload="1" width="744"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <userdata altitude="0.00" author="" comment="" copyright="" customnodeid="" datetime="25/02/2026 15:54" description="" heading="0" hideinlist="0" info="" latitude="14.61250974" longitude="-90.62349631" nodeid="node10" source="" tags="Exportacinsinttulo" title=""/>
-    <view fovmode="2" pannorth="0">
-      <start fov="100" pan="-56.6734" projection="4" tilt="-7.0397"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="1" pan="0" tilt="-90"/>
-      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
-    </view>
-    <hotspots>
-      <hotspot description="" distance="29.3137" id="Point01" pan="179.18" skinid="ht_node" target="174.0/-6.5/100.0" tilt="-9.03" title="Area de dormitorios" url="{node27}"/>
-    </hotspots>
-    <media/>
-    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
-  </panorama>
   <panorama hideabout="1" id="node9">
     <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
       <level height="2976" predecode="0" preload="0" width="2976"/>
@@ -373,31 +333,11 @@
     </view>
     <hotspots>
       <hotspot description="" distance="28.7339" id="Point03" pan="-11.74" skinid="ht_node" target="-17.6/-23.2/100.0" tilt="-20.76" title="Subir" url="{node27}"/>
-      <hotspot description="" id="Point01" pan="-74.54" skinid="ht_node" target="-37.8/-11.8/100.0" tilt="-13.17" title="Dormitorio (4)" url="{node6}"/>
+      <hotspot description="" id="Point01" pan="-74.54" skinid="ht_node" target="-77.1/-6.3/60.1" tilt="-13.17" title="Dormitorio (4)" url="{node7}"/>
       <hotspot description="" distance="5.84348" id="Point02" pan="165.64" skinid="ht_node" target="0.1/-1.8/100.0" tilt="-7.51" title="Sala familiar" url="{node5}"/>
       <hotspot description="" id="Point04" pan="133.33" skinid="ht_node" target="139.4/-10.2/81.3" tilt="-17.15" title="Closet de blancos" url="{node7}"/>
       <hotspot description="" id="Point05" pan="-132.68" skinid="ht_node" target="-140.4/-5.1/26.0" tilt="-5.18" title="Dormitorio (5)" url="{node7}"/>
       <hotspot description="" id="Point06" pan="-147.77" skinid="ht_node" target="-163.8/-16.3/120.8" tilt="-5.34" title="Sala familiar" url="{node7}"/>
-    </hotspots>
-    <media/>
-    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
-  </panorama>
-  <panorama hideabout="1" id="node6">
-    <input height="2976" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2976">
-      <level height="2976" predecode="0" preload="0" width="2976"/>
-      <level height="1488" predecode="0" preload="0" width="1488"/>
-      <level height="744" predecode="1" preload="1" width="744"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <userdata altitude="0.00" author="" comment="" copyright="" customnodeid="" datetime="25/02/2026 15:57" description="" heading="0" hideinlist="0" info="" latitude="14.61248773" longitude="-90.62350674" nodeid="node6" source="" tags="Exportacinsinttulo" title=""/>
-    <view fovmode="2" pannorth="0">
-      <start fov="106.14" pan="-38.9352" projection="4" tilt="-12.5323"/>
-      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
-      <min fov="1" pan="0" tilt="-90"/>
-      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
-    </view>
-    <hotspots>
-      <hotspot description="" id="Point01" pan="148.68" skinid="ht_node" target="162.4/-3.9/120.8" tilt="-10.75" title="Area sala familiar" url="{node7}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
