@@ -15,7 +15,7 @@
       <max fov="140" fovfisheye="360" fovstereographic="330" pan="360" scaletofit="1" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="6.11433" id="Point01" pan="-3.44" skinid="ht_node" target="$fwd" tilt="-5.15" title="Garaje" url="{node22}"/>
+      <hotspot description="" distance="6.11433" id="Point01" pan="-3.44" skinid="ht_node" target="29.6/-12.2/100.0" tilt="-5.15" title="Garaje" url="{node22}"/>
       <hotspot description="" distance="37.9378" id="Point03" pan="-52.31" skinid="ht_node" target="-8.9/19.6/100.0" tilt="-4.74" title="Area de jardin" url="{node1}"/>
     </hotspots>
     <media/>
@@ -81,10 +81,10 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" distance="11.2682" id="Point03" pan="12.33" skinid="ht_node" target="-17.3/-9.6/100.0" tilt="-15.63" title="Cocina" url="{node18}"/>
-      <hotspot description="" distance="9.96043" id="Point04" pan="-10.8" skinid="ht_node" target="-24.8/-14.5/100.0" tilt="-15.79" title="Comedor" url="{node19}"/>
+      <hotspot description="" distance="11.2682" id="Point03" pan="16.51" skinid="ht_node" target="-17.3/-9.6/100.0" tilt="-15.85" title="Cocina" url="{node18}"/>
+      <hotspot description="" distance="9.96043" id="Point04" pan="-14.51" skinid="ht_node" target="-24.8/-14.5/100.0" tilt="-15.47" title="Comedor" url="{node19}"/>
       <hotspot description="" distance="7.47583" id="Point05" pan="-176.69" skinid="ht_node" target="$fwd" tilt="-7.96" title="Salida de casa" url="{node23}"/>
-      <hotspot description="" distance="7.73883" id="Point02" pan="9.78" skinid="ht_node" target="-14.7/-37.8/124.8" tilt="-30.32" title="Gradas para dormitorios" url="{node16}"/>
+      <hotspot description="" distance="7.73883" id="Point02" pan="6.31" skinid="ht_node" target="-14.7/-37.8/124.8" tilt="-33.49" title="Gradas para dormitorios" url="{node16}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
